@@ -1,2 +1,2 @@
 # neural-env-cpp
-A C++ module for creating neural networks and conducting NEAT machine learning.
+A C++ module for creating neural networks and conducting machine learning using NEAT.
